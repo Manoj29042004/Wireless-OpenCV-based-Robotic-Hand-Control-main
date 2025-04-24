@@ -4,7 +4,7 @@
 This project demonstrates a **gesture-controlled robotic hand** that mimics real-time human finger movements using computer vision and embedded systems. Using OpenCV, MediaPipe, and ESP8266, the system interprets hand gestures and replicates them on a 3D-printed robotic hand. Two operational modes — **Live Mode** and **Replay Mode** — are supported for flexibility in interaction.
 
 ## 📽️ Demo Preview
-*(Insert demo GIF or YouTube link here if available)*
+https://drive.google.com/drive/folders/1h4KoH_4muTcvB98oAV8vFLIYHccwAOkN?usp=sharing
 
 ---
 
